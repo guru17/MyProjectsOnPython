@@ -11,4 +11,4 @@ def new_dec_func(original_func):
 
 @new_dec_func
 def display_func():
-    print("I am display func()")
+    print("I am display  func()")
